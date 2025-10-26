@@ -1,6 +1,6 @@
 # Clovis
 
-**Make Poke sound like you.**
+**Make Poke more like you.**
 
 Clovis is an MCP (Model Context Protocol) integration designed for [Poke by interaction.co](https://poke.co) that enables truly personalized AI communication. By analyzing your writing patterns in depth, Clovis gives Poke the means to mirror your unique communication style—your tone, your vocabulary, your formality level—making every interaction feel authentically you.
 
