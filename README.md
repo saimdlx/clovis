@@ -2,11 +2,11 @@
 
 **make Poke more like you.**
 
-clovis is an MCP (Model Context Protocol) integration designed for [Poke by interaction.co](https://poke.co) that enables truly personalized AI communication. by analyzing your writing patterns in depth, clovis gives Poke the means to mirror your unique communication style—your tone, your vocabulary, your formality level—making every interaction feel authentically you.
+clovis is an MCP integration designed for [Poke by interaction.co](https://poke.co) that enables truly personalized AI communication. by analyzing your writing patterns in depth, clovis gives Poke the means to mirror your unique communication style—your tone, your vocabulary, your formality level—making every interaction feel authentically you.
 
 clovis is a forward-looking integration feature **not yet available** in Poke. this MCP server integration demonstrates Poke could leverage protocol-level personalization to become more than just an AI assistant, and instead your digital communication persona.
 
-## why Clovis Matters
+## why clovis matters
 
 current AI assistants use generic, one-size-fits-all communication styles. Clovis changes this by:
 
