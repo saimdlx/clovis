@@ -6,8 +6,6 @@ Clovis is an MCP (Model Context Protocol) integration designed for [Poke by inte
 
 > **Note:** Clovis is a forward-looking integration feature **not yet available** in Poke. This MCP server integration demonstrates Poke could leverage protocol-level personalization to become more than just an AI assistant, and instead your digital communication persona.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/InteractionCo/mcp-server-template)
-
 ## Why Clovis Matters
 
 Current AI assistants use generic, one-size-fits-all communication styles. Clovis changes this by:
