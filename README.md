@@ -21,23 +21,6 @@ This is the future of AI interaction: not tools that make you adapt to them, but
 
 Clovis provides specialized MCP tools for deep communication analysis:
 
-### 1. `greet`
-Greet a user by name with a welcome message from the MCP server.
-
-**Parameters:**
-- `name` (str): The name of the user to greet
-
-**Returns:** A personalized greeting message
-
-### 2. `get_server_info`
-Get comprehensive information about the MCP server including name, version, environment, and Python version.
-
-**Returns:** Dictionary with:
-- `server_name`: Name of the MCP server
-- `version`: Current version (1.0.0)
-- `environment`: Running environment (development/production)
-- `python_version`: Python runtime version
-
 ### 3. `getEmail`
 Fetch emails from user contacts for persona generation and analysis.
 
