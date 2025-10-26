@@ -1,12 +1,27 @@
-# Email Persona Analysis MCP Server
+# Clovis
 
-A [FastMCP](https://github.com/jlowin/fastmcp) server that provides email analysis and persona generation tools. This server analyzes writing styles, categorizes contacts, and helps generate contextual communication patterns based on email interactions.
+**Make Poke sound like you.**
+
+Clovis is an MCP (Model Context Protocol) integration designed for [Poke by interaction.co](https://poke.co) that enables truly personalized AI communication. By analyzing your email writing patterns, Clovis teaches Poke to mirror your unique communication style—your tone, your vocabulary, your formality level—making every interaction feel authentically you.
+
+> **Note:** Clovis is a forward-looking integration feature **not yet available** in Poke. This MCP server demonstrates how future versions of Poke could leverage protocol-level personalization to become more than just an AI assistant—it becomes your digital communication persona.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/InteractionCo/mcp-server-template)
 
-## Features
+## Why Clovis Matters
 
-This MCP server provides four specialized tools for email analysis and persona generation:
+Current AI assistants use generic, one-size-fits-all communication styles. Clovis changes this by:
+
+- **Analyzing your actual writing** from email communications to understand your personal style
+- **Categorizing your contacts** (friends, colleagues, support) to apply contextually appropriate tones
+- **Generating style profiles** that capture your sentence patterns, emoji usage, formality, and signature phrases
+- **Enabling Poke to communicate as you would**—not as a generic AI, but as your authentic digital self
+
+This is the future of AI interaction: not tools that make you adapt to them, but tools that adapt to you.
+
+## How It Works
+
+Clovis provides specialized MCP tools for deep communication analysis:
 
 ### 1. `greet`
 Greet a user by name with a welcome message from the MCP server.
@@ -69,7 +84,7 @@ Categorize contacts into groups based on contact type (friends, work, support).
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd mcptrial
+cd clovis
 ```
 
 2. Create and activate a virtual environment:
@@ -195,7 +210,7 @@ The email analysis tools in src/server.py:51-62 can be customized to:
 ## Project Structure
 
 ```
-mcptrial/
+clovis/
 ├── src/
 │   └── server.py          # Main MCP server with tool definitions
 ├── requirements.txt       # Python dependencies
